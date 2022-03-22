@@ -1,0 +1,65 @@
+
+/* font-family Zhi_Mang_Xing*/
+@font-face {
+    font-family: Zhi_Mang_Xing;
+    src:url('../fonts/Zhi_Mang_Xing/ZhiMangXing-Regular.ttf');
+
+}
+
+/* font-family Jim_Nightshade*/
+@font-face{
+    font-family: Jim_Nightshade;
+    src:url('../fonts/Jim_Nightshade/JimNightshade-Regular.ttf');
+
+}
+/* font-family Molle*/
+@font-face{
+    font-family: Molle;
+    src:url('../fonts/Molle/Molle-Italic.ttf');
+
+}
+/* font-family Titillium_Web*/
+@font-face{
+    font-family: Titillium_Web;
+    src:url('../fonts/Titillium_Web/TitilliumWeb-Regular.ttf');
+
+}
+/* font-family Inconsolata*/
+@font-face{
+    font-family: Inconsolata;
+    src:url('../fonts/Inconsolata/Inconsolata-Regular.ttf');
+
+}
+
+
+
+/* font-family Dancing_Script*/
+@font-face {
+    font-family: Dancing_Script;
+    src:url('../fonts/Dancing_Script/DancingScript-VariableFont_wght.ttf');
+
+}
+/* font-family Permanent_Marker*/
+@font-face {
+    font-family: Permanent_Marker;
+    src:url('../fonts/Permanent_Marker/PermanentMarker-Regular.ttf');
+
+}
+
+/* font-family Satisfy*/
+@font-face {
+    font-family: Satisfy;
+    src:url('../fonts/Satisfy/Satisfy-Regular.ttf');
+
+}
+/* font-family Great_Vibes*/
+@font-face {
+    font-family: Great_Vibes;
+    src:url('../fonts/Great_Vibes/GreatVibes-Regular.ttf');
+
+}
+
+
+
+
+
